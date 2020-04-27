@@ -120,7 +120,7 @@
     create-emotion-server "10.0.27"
     emotion "^10.0.7"
 
-"@leafygreen-ui/icon@^5.0.3":
+"@leafygreen-ui/icon@5.0.3":
   version "5.0.3"
   resolved "https://registry.yarnpkg.com/@leafygreen-ui/icon/-/icon-5.0.3.tgz#5352ed53c1d7e28ca8ddb6372446042cf5a35f72"
   integrity sha512-p76qFraOhzeU4XXyFX9sw1N0asgdMpRXVA9XL1/fQAnjWqWyGkAIlbcP/pm2OstHWCr+snGXxT6ICzPkyaT4kA==
